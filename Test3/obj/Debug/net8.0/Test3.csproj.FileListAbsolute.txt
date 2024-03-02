@@ -1,0 +1,14 @@
+C:\Users\zlams\source\CSharpTest\Test3\bin\Debug\net8.0\Test3.exe
+C:\Users\zlams\source\CSharpTest\Test3\bin\Debug\net8.0\Test3.deps.json
+C:\Users\zlams\source\CSharpTest\Test3\bin\Debug\net8.0\Test3.runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\Test3\bin\Debug\net8.0\Test3.dll
+C:\Users\zlams\source\CSharpTest\Test3\bin\Debug\net8.0\Test3.pdb
+C:\Users\zlams\source\CSharpTest\Test3\obj\Debug\net8.0\Test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\Test3\obj\Debug\net8.0\Test3.AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\Test3\obj\Debug\net8.0\Test3.AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\Test3\obj\Debug\net8.0\Test3.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\Test3\obj\Debug\net8.0\Test3.dll
+C:\Users\zlams\source\CSharpTest\Test3\obj\Debug\net8.0\refint\Test3.dll
+C:\Users\zlams\source\CSharpTest\Test3\obj\Debug\net8.0\Test3.pdb
+C:\Users\zlams\source\CSharpTest\Test3\obj\Debug\net8.0\Test3.genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\Test3\obj\Debug\net8.0\ref\Test3.dll
