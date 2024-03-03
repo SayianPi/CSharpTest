@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zlams\\source\\CSharpTest\\Test7\\",
+  "WorkspaceRootPath": "C:\\Users\\zlams\\source\\CSharpTest\\Test8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B86E5E1E-F2EA-4E96-A42E-8A6095019B45}|Test7.csproj|c:\\users\\zlams\\source\\csharptest\\test7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B86E5E1E-F2EA-4E96-A42E-8A6095019B45}|Test7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F8FAE67-2FF2-4C0D-95CF-431CED275DC7}|Test8.csproj|c:\\users\\zlams\\source\\csharptest\\test8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8FAE67-2FF2-4C0D-95CF-431CED275DC7}|Test8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zlams\\source\\CSharpTest\\Test7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\CSharpTest\\Test8\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\zlams\\source\\CSharpTest\\Test7\\Program.cs",
+              "ToolTip": "C:\\Users\\zlams\\source\\CSharpTest\\Test8\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T05:33:33.819Z",
+              "WhenOpened": "2024-03-02T06:36:38.029Z",
               "EditorCaption": ""
             }
           ]
