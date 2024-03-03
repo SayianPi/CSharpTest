@@ -22,6 +22,8 @@ namespace Test8
             //    Console.WriteLine(str1);
             //}
 
+            /* string reversedstring = new string(stringarray); //cannot convert from string[] to char
+            Console.WriteLine(reversedstring); */
 
             Console.WriteLine("Reverse sentence is: ");
             for (int i = 0; i <= stringarray.Length - 1; i++)

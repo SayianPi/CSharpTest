@@ -20,9 +20,6 @@ namespace Test7
             x += x; //10+10=20
             Console.WriteLine(x); //20
 
-            y = +y; //13
-            Console.WriteLine(y); //13
-
             z = ++y + y++; //13+13=26
             Console.WriteLine(z); //26
 

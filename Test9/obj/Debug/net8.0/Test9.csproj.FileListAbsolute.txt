@@ -1,0 +1,15 @@
+C:\Users\zlams\source\CSharpTest\Test9\obj\Debug\net8.0\Test9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\Test9\obj\Debug\net8.0\Test9.AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\Test9\obj\Debug\net8.0\Test9.AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\Test9\obj\Debug\net8.0\Test9.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\Test9\obj\Debug\net8.0\Test9.sourcelink.json
+C:\Users\zlams\source\CSharpTest\Test9\bin\Debug\net8.0\Test9.exe
+C:\Users\zlams\source\CSharpTest\Test9\bin\Debug\net8.0\Test9.deps.json
+C:\Users\zlams\source\CSharpTest\Test9\bin\Debug\net8.0\Test9.runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\Test9\bin\Debug\net8.0\Test9.dll
+C:\Users\zlams\source\CSharpTest\Test9\bin\Debug\net8.0\Test9.pdb
+C:\Users\zlams\source\CSharpTest\Test9\obj\Debug\net8.0\Test9.dll
+C:\Users\zlams\source\CSharpTest\Test9\obj\Debug\net8.0\refint\Test9.dll
+C:\Users\zlams\source\CSharpTest\Test9\obj\Debug\net8.0\Test9.pdb
+C:\Users\zlams\source\CSharpTest\Test9\obj\Debug\net8.0\Test9.genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\Test9\obj\Debug\net8.0\ref\Test9.dll
