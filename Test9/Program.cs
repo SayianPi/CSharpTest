@@ -42,6 +42,15 @@ namespace Test9
             string now = DateTime.Now.ToString("dddd, dd MMMM yyyy, hh:mm tt"); 
             Console.WriteLine(now); //Sunday, 03 March 2024, 12:28 PM
 
+            int x = 12, y = 11, z;
+            x *= x; //x square or, x*x
+            Console.WriteLine($"x *= x => {x}"); //144
+
+            y += 1; //y+1 = 11+1 = 12
+            y += 2; //y+2 = 12+2 = 14
+            y += 3; //y+3 = 14+3 = 17
+            Console.WriteLine(y); //17
+
         }
     }
 }
