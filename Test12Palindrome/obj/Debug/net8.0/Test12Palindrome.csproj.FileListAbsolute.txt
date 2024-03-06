@@ -1,0 +1,15 @@
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\bin\Debug\net8.0\Test12Palindrome.exe
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\bin\Debug\net8.0\Test12Palindrome.deps.json
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\bin\Debug\net8.0\Test12Palindrome.runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\bin\Debug\net8.0\Test12Palindrome.dll
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\bin\Debug\net8.0\Test12Palindrome.pdb
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\obj\Debug\net8.0\Test12Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\obj\Debug\net8.0\Test12Palindrome.AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\obj\Debug\net8.0\Test12Palindrome.AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\obj\Debug\net8.0\Test12Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\obj\Debug\net8.0\Test12Palindrome.sourcelink.json
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\obj\Debug\net8.0\Test12Palindrome.dll
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\obj\Debug\net8.0\refint\Test12Palindrome.dll
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\obj\Debug\net8.0\Test12Palindrome.pdb
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\obj\Debug\net8.0\Test12Palindrome.genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\Test12Palindrome\obj\Debug\net8.0\ref\Test12Palindrome.dll

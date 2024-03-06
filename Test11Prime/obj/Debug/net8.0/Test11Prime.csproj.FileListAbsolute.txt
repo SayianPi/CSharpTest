@@ -1,0 +1,15 @@
+C:\Users\zlams\source\CSharpTest\Test11Prime\bin\Debug\net8.0\Test11Prime.exe
+C:\Users\zlams\source\CSharpTest\Test11Prime\bin\Debug\net8.0\Test11Prime.deps.json
+C:\Users\zlams\source\CSharpTest\Test11Prime\bin\Debug\net8.0\Test11Prime.runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\Test11Prime\bin\Debug\net8.0\Test11Prime.dll
+C:\Users\zlams\source\CSharpTest\Test11Prime\bin\Debug\net8.0\Test11Prime.pdb
+C:\Users\zlams\source\CSharpTest\Test11Prime\obj\Debug\net8.0\Test11Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\Test11Prime\obj\Debug\net8.0\Test11Prime.AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\Test11Prime\obj\Debug\net8.0\Test11Prime.AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\Test11Prime\obj\Debug\net8.0\Test11Prime.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\Test11Prime\obj\Debug\net8.0\Test11Prime.sourcelink.json
+C:\Users\zlams\source\CSharpTest\Test11Prime\obj\Debug\net8.0\Test11Prime.dll
+C:\Users\zlams\source\CSharpTest\Test11Prime\obj\Debug\net8.0\refint\Test11Prime.dll
+C:\Users\zlams\source\CSharpTest\Test11Prime\obj\Debug\net8.0\Test11Prime.pdb
+C:\Users\zlams\source\CSharpTest\Test11Prime\obj\Debug\net8.0\Test11Prime.genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\Test11Prime\obj\Debug\net8.0\ref\Test11Prime.dll
