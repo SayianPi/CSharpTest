@@ -12,3 +12,4 @@ C:\Users\zlams\source\CSharpTest\Test6\obj\Debug\net8.0\refint\Test6.dll
 C:\Users\zlams\source\CSharpTest\Test6\obj\Debug\net8.0\Test6.pdb
 C:\Users\zlams\source\CSharpTest\Test6\obj\Debug\net8.0\Test6.genruntimeconfig.cache
 C:\Users\zlams\source\CSharpTest\Test6\obj\Debug\net8.0\ref\Test6.dll
+C:\Users\zlams\source\CSharpTest\Test6\obj\Debug\net8.0\Test6.sourcelink.json

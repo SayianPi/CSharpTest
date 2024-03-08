@@ -1,0 +1,15 @@
+C:\Users\zlams\source\CSharpTest\Test14(var)\bin\Debug\net8.0\Test14(var).exe
+C:\Users\zlams\source\CSharpTest\Test14(var)\bin\Debug\net8.0\Test14(var).deps.json
+C:\Users\zlams\source\CSharpTest\Test14(var)\bin\Debug\net8.0\Test14(var).runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\Test14(var)\bin\Debug\net8.0\Test14(var).dll
+C:\Users\zlams\source\CSharpTest\Test14(var)\bin\Debug\net8.0\Test14(var).pdb
+C:\Users\zlams\source\CSharpTest\Test14(var)\obj\Debug\net8.0\Test14(var).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\Test14(var)\obj\Debug\net8.0\Test14(var).AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\Test14(var)\obj\Debug\net8.0\Test14(var).AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\Test14(var)\obj\Debug\net8.0\Test14(var).csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\Test14(var)\obj\Debug\net8.0\Test14(var).sourcelink.json
+C:\Users\zlams\source\CSharpTest\Test14(var)\obj\Debug\net8.0\Test14(var).dll
+C:\Users\zlams\source\CSharpTest\Test14(var)\obj\Debug\net8.0\refint\Test14(var).dll
+C:\Users\zlams\source\CSharpTest\Test14(var)\obj\Debug\net8.0\Test14(var).pdb
+C:\Users\zlams\source\CSharpTest\Test14(var)\obj\Debug\net8.0\Test14(var).genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\Test14(var)\obj\Debug\net8.0\ref\Test14(var).dll
