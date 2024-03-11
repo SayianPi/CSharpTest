@@ -1,0 +1,15 @@
+C:\Users\zlams\source\CSharpTest\Test16(read only)\bin\Debug\net8.0\Test16(read only).exe
+C:\Users\zlams\source\CSharpTest\Test16(read only)\bin\Debug\net8.0\Test16(read only).deps.json
+C:\Users\zlams\source\CSharpTest\Test16(read only)\bin\Debug\net8.0\Test16(read only).runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\Test16(read only)\bin\Debug\net8.0\Test16(read only).dll
+C:\Users\zlams\source\CSharpTest\Test16(read only)\bin\Debug\net8.0\Test16(read only).pdb
+C:\Users\zlams\source\CSharpTest\Test16(read only)\obj\Debug\net8.0\Test16(read only).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\Test16(read only)\obj\Debug\net8.0\Test16(read only).AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\Test16(read only)\obj\Debug\net8.0\Test16(read only).AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\Test16(read only)\obj\Debug\net8.0\Test16(read only).csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\Test16(read only)\obj\Debug\net8.0\Test16(read only).sourcelink.json
+C:\Users\zlams\source\CSharpTest\Test16(read only)\obj\Debug\net8.0\Test16(read only).dll
+C:\Users\zlams\source\CSharpTest\Test16(read only)\obj\Debug\net8.0\refint\Test16(read only).dll
+C:\Users\zlams\source\CSharpTest\Test16(read only)\obj\Debug\net8.0\Test16(read only).pdb
+C:\Users\zlams\source\CSharpTest\Test16(read only)\obj\Debug\net8.0\Test16(read only).genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\Test16(read only)\obj\Debug\net8.0\ref\Test16(read only).dll
