@@ -1,0 +1,15 @@
+C:\Users\zlams\source\CSharpTest\Test17()\bin\Debug\net8.0\Test17().exe
+C:\Users\zlams\source\CSharpTest\Test17()\bin\Debug\net8.0\Test17().deps.json
+C:\Users\zlams\source\CSharpTest\Test17()\bin\Debug\net8.0\Test17().runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\Test17()\bin\Debug\net8.0\Test17().dll
+C:\Users\zlams\source\CSharpTest\Test17()\bin\Debug\net8.0\Test17().pdb
+C:\Users\zlams\source\CSharpTest\Test17()\obj\Debug\net8.0\Test17().GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\Test17()\obj\Debug\net8.0\Test17().AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\Test17()\obj\Debug\net8.0\Test17().AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\Test17()\obj\Debug\net8.0\Test17().csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\Test17()\obj\Debug\net8.0\Test17().sourcelink.json
+C:\Users\zlams\source\CSharpTest\Test17()\obj\Debug\net8.0\Test17().dll
+C:\Users\zlams\source\CSharpTest\Test17()\obj\Debug\net8.0\refint\Test17().dll
+C:\Users\zlams\source\CSharpTest\Test17()\obj\Debug\net8.0\Test17().pdb
+C:\Users\zlams\source\CSharpTest\Test17()\obj\Debug\net8.0\Test17().genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\Test17()\obj\Debug\net8.0\ref\Test17().dll
