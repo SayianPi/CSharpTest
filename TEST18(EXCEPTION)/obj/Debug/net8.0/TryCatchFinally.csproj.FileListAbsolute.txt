@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.exe
+C:\Users\zlams\source\repos\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.deps.json
+C:\Users\zlams\source\repos\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.runtimeconfig.json
+C:\Users\zlams\source\repos\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.dll
+C:\Users\zlams\source\repos\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.pdb
+C:\Users\zlams\source\repos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.AssemblyInfo.cs
+C:\Users\zlams\source\repos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.sourcelink.json
+C:\Users\zlams\source\repos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.dll
+C:\Users\zlams\source\repos\TryCatchFinally\obj\Debug\net8.0\refint\TryCatchFinally.dll
+C:\Users\zlams\source\repos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.pdb
+C:\Users\zlams\source\repos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.genruntimeconfig.cache
+C:\Users\zlams\source\repos\TryCatchFinally\obj\Debug\net8.0\ref\TryCatchFinally.dll
