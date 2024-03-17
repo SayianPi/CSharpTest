@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zlams\\source\\repos\\TryCatchFinally\\",
+  "WorkspaceRootPath": "C:\\Users\\zlams\\source\\CSharpTest\\TEST18(EXCEPTION)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26171301-AAE2-4E64-9E15-9362E340A352}|TryCatchFinally.csproj|c:\\users\\zlams\\source\\repos\\trycatchfinally\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26171301-AAE2-4E64-9E15-9362E340A352}|TryCatchFinally.csproj|c:\\users\\zlams\\source\\csharptest\\test18(exception)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26171301-AAE2-4E64-9E15-9362E340A352}|TryCatchFinally.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zlams\\source\\repos\\TryCatchFinally\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\CSharpTest\\TEST18(EXCEPTION)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\zlams\\source\\repos\\TryCatchFinally\\Program.cs",
+              "ToolTip": "C:\\Users\\zlams\\source\\CSharpTest\\TEST18(EXCEPTION)\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIA7wBgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T08:02:32.453Z",
               "EditorCaption": ""
