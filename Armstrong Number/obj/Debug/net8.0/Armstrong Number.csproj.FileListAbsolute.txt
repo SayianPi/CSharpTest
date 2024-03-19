@@ -1,0 +1,15 @@
+C:\Users\zlams\source\CSharpTest\Armstrong Number\bin\Debug\net8.0\Armstrong Number.exe
+C:\Users\zlams\source\CSharpTest\Armstrong Number\bin\Debug\net8.0\Armstrong Number.deps.json
+C:\Users\zlams\source\CSharpTest\Armstrong Number\bin\Debug\net8.0\Armstrong Number.runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\Armstrong Number\bin\Debug\net8.0\Armstrong Number.dll
+C:\Users\zlams\source\CSharpTest\Armstrong Number\bin\Debug\net8.0\Armstrong Number.pdb
+C:\Users\zlams\source\CSharpTest\Armstrong Number\obj\Debug\net8.0\Armstrong Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\Armstrong Number\obj\Debug\net8.0\Armstrong Number.AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\Armstrong Number\obj\Debug\net8.0\Armstrong Number.AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\Armstrong Number\obj\Debug\net8.0\Armstrong Number.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\Armstrong Number\obj\Debug\net8.0\Armstrong Number.sourcelink.json
+C:\Users\zlams\source\CSharpTest\Armstrong Number\obj\Debug\net8.0\Armstrong Number.dll
+C:\Users\zlams\source\CSharpTest\Armstrong Number\obj\Debug\net8.0\refint\Armstrong Number.dll
+C:\Users\zlams\source\CSharpTest\Armstrong Number\obj\Debug\net8.0\Armstrong Number.pdb
+C:\Users\zlams\source\CSharpTest\Armstrong Number\obj\Debug\net8.0\Armstrong Number.genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\Armstrong Number\obj\Debug\net8.0\ref\Armstrong Number.dll

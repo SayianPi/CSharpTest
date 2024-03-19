@@ -1,0 +1,15 @@
+C:\Users\zlams\source\CSharpTest\IntIntoArray\bin\Debug\net8.0\IntIntoArray.exe
+C:\Users\zlams\source\CSharpTest\IntIntoArray\bin\Debug\net8.0\IntIntoArray.deps.json
+C:\Users\zlams\source\CSharpTest\IntIntoArray\bin\Debug\net8.0\IntIntoArray.runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\IntIntoArray\bin\Debug\net8.0\IntIntoArray.dll
+C:\Users\zlams\source\CSharpTest\IntIntoArray\bin\Debug\net8.0\IntIntoArray.pdb
+C:\Users\zlams\source\CSharpTest\IntIntoArray\obj\Debug\net8.0\IntIntoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\IntIntoArray\obj\Debug\net8.0\IntIntoArray.AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\IntIntoArray\obj\Debug\net8.0\IntIntoArray.AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\IntIntoArray\obj\Debug\net8.0\IntIntoArray.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\IntIntoArray\obj\Debug\net8.0\IntIntoArray.sourcelink.json
+C:\Users\zlams\source\CSharpTest\IntIntoArray\obj\Debug\net8.0\IntIntoArray.dll
+C:\Users\zlams\source\CSharpTest\IntIntoArray\obj\Debug\net8.0\refint\IntIntoArray.dll
+C:\Users\zlams\source\CSharpTest\IntIntoArray\obj\Debug\net8.0\IntIntoArray.pdb
+C:\Users\zlams\source\CSharpTest\IntIntoArray\obj\Debug\net8.0\IntIntoArray.genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\IntIntoArray\obj\Debug\net8.0\ref\IntIntoArray.dll
