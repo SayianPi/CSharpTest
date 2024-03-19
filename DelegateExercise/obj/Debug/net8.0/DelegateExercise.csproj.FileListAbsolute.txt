@@ -1,0 +1,15 @@
+C:\Users\zlams\source\CSharpTest\DelegateExercise\bin\Debug\net8.0\DelegateExercise.exe
+C:\Users\zlams\source\CSharpTest\DelegateExercise\bin\Debug\net8.0\DelegateExercise.deps.json
+C:\Users\zlams\source\CSharpTest\DelegateExercise\bin\Debug\net8.0\DelegateExercise.runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\DelegateExercise\bin\Debug\net8.0\DelegateExercise.dll
+C:\Users\zlams\source\CSharpTest\DelegateExercise\bin\Debug\net8.0\DelegateExercise.pdb
+C:\Users\zlams\source\CSharpTest\DelegateExercise\obj\Debug\net8.0\DelegateExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\DelegateExercise\obj\Debug\net8.0\DelegateExercise.AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\DelegateExercise\obj\Debug\net8.0\DelegateExercise.AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\DelegateExercise\obj\Debug\net8.0\DelegateExercise.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\DelegateExercise\obj\Debug\net8.0\DelegateExercise.sourcelink.json
+C:\Users\zlams\source\CSharpTest\DelegateExercise\obj\Debug\net8.0\DelegateExercise.dll
+C:\Users\zlams\source\CSharpTest\DelegateExercise\obj\Debug\net8.0\refint\DelegateExercise.dll
+C:\Users\zlams\source\CSharpTest\DelegateExercise\obj\Debug\net8.0\DelegateExercise.pdb
+C:\Users\zlams\source\CSharpTest\DelegateExercise\obj\Debug\net8.0\DelegateExercise.genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\DelegateExercise\obj\Debug\net8.0\ref\DelegateExercise.dll
