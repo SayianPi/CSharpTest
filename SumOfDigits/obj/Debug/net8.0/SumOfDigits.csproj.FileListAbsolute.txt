@@ -1,0 +1,15 @@
+C:\Users\zlams\source\CSharpTest\SumOfDigits\bin\Debug\net8.0\SumOfDigits.exe
+C:\Users\zlams\source\CSharpTest\SumOfDigits\bin\Debug\net8.0\SumOfDigits.deps.json
+C:\Users\zlams\source\CSharpTest\SumOfDigits\bin\Debug\net8.0\SumOfDigits.runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\SumOfDigits\bin\Debug\net8.0\SumOfDigits.dll
+C:\Users\zlams\source\CSharpTest\SumOfDigits\bin\Debug\net8.0\SumOfDigits.pdb
+C:\Users\zlams\source\CSharpTest\SumOfDigits\obj\Debug\net8.0\SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\SumOfDigits\obj\Debug\net8.0\SumOfDigits.AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\SumOfDigits\obj\Debug\net8.0\SumOfDigits.AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\SumOfDigits\obj\Debug\net8.0\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\SumOfDigits\obj\Debug\net8.0\SumOfDigits.sourcelink.json
+C:\Users\zlams\source\CSharpTest\SumOfDigits\obj\Debug\net8.0\SumOfDigits.dll
+C:\Users\zlams\source\CSharpTest\SumOfDigits\obj\Debug\net8.0\refint\SumOfDigits.dll
+C:\Users\zlams\source\CSharpTest\SumOfDigits\obj\Debug\net8.0\SumOfDigits.pdb
+C:\Users\zlams\source\CSharpTest\SumOfDigits\obj\Debug\net8.0\SumOfDigits.genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\SumOfDigits\obj\Debug\net8.0\ref\SumOfDigits.dll
