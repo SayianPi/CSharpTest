@@ -1,0 +1,15 @@
+C:\Users\zlams\source\CSharpTest\ArrayToString\bin\Debug\net8.0\ArrayToString.exe
+C:\Users\zlams\source\CSharpTest\ArrayToString\bin\Debug\net8.0\ArrayToString.deps.json
+C:\Users\zlams\source\CSharpTest\ArrayToString\bin\Debug\net8.0\ArrayToString.runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\ArrayToString\bin\Debug\net8.0\ArrayToString.dll
+C:\Users\zlams\source\CSharpTest\ArrayToString\bin\Debug\net8.0\ArrayToString.pdb
+C:\Users\zlams\source\CSharpTest\ArrayToString\obj\Debug\net8.0\ArrayToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\ArrayToString\obj\Debug\net8.0\ArrayToString.AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\ArrayToString\obj\Debug\net8.0\ArrayToString.AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\ArrayToString\obj\Debug\net8.0\ArrayToString.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\ArrayToString\obj\Debug\net8.0\ArrayToString.sourcelink.json
+C:\Users\zlams\source\CSharpTest\ArrayToString\obj\Debug\net8.0\ArrayToString.dll
+C:\Users\zlams\source\CSharpTest\ArrayToString\obj\Debug\net8.0\refint\ArrayToString.dll
+C:\Users\zlams\source\CSharpTest\ArrayToString\obj\Debug\net8.0\ArrayToString.pdb
+C:\Users\zlams\source\CSharpTest\ArrayToString\obj\Debug\net8.0\ArrayToString.genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\ArrayToString\obj\Debug\net8.0\ref\ArrayToString.dll
